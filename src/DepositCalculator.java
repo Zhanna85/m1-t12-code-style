@@ -1,4 +1,4 @@
-import java.util.Scanner;
+import java.util.Scanner; // код проверен, замечания отсутствуют!)
 
 public class DepositCalculator {
     public static void main(String[] args) {
